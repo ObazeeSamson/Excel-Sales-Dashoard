@@ -1,6 +1,6 @@
 # Excel-Sales-Dashoard
 
-##Project Overview
+## Project Overview
 This project is a Sales Performance Dashboard built using Power BI to analyze revenue, orders, customer distribution, and regional performance.
 ## Tools Used
 * Excel
