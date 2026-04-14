@@ -57,4 +57,4 @@ This project is a Sales Performance Dashboard built using Power BI to analyze re
 - Best Region: Texas ($532K)
 
 ## Dashboard
-![Dashboard]
+![Dashboard](Dashboard.png)
